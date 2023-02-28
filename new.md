@@ -1,12 +1,7 @@
-kirankhanal@gmail.com
-
-# ArduinoProteus
-
-#Counter 0-9
-
 //The Coding://
 
 
+// int x0,x1,x2,x3,x4,x5,x6,x7,x8,x9;
 int delay_time=1000;
 
 void setup() {
@@ -120,5 +115,3 @@ void loop() {
     digitalWrite(7,HIGH);
     delay(delay_time);
   }
-  
-  https://microdigisoft.com/how-to-make-a-car-speed-detector-using-arduino-and-ir-sensor-in-proteus/
